@@ -47,7 +47,7 @@
 ## Dailies <sub><sup><sub>[`source 1`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21162973/day-dailies-fossils-money-rock-bells-furniture) [`source 2`](https://c.eev.ee/acnh-companion/#tips)</sub></sup></sub>
 Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all over again:
 
-* [ ] Check in at the Nook Stop (300 Nook Miles per day after your first 6 days)
+* [ ] Check in at the Nook Stop 
 * [ ] Shop the Nook Stop for new special catalog items and fence recipes
 * [ ] Shop at Nook’s Cranny and the Able Sisters’
 * [ ] Complete the first 5 Nook Miles+ missions of the day for 2x bonus
