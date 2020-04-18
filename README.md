@@ -24,16 +24,20 @@
 
 ## Resources
 
-
+### Collection & Tracking
 * [**Completionista**](https://completionista.com/)
 * [**Nook Plaza**](https://nookplaza.net/)
-* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html)
-* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room)
-* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/)
-* [**Nookazon**](http://nookazon.com)
 * [**Turnip Prophet**](https://turnipprophet.io/)
 * [**Stalks**](https://stalks.io/)
 
+### Guides
+* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html)
+* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room)
+* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/)
+
+### Trade
+* [**Nookazon**](http://nookazon.com)
+* [**Turnip Exchange**](https://turnip.exchange/)
 
 ## Timing
 
