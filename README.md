@@ -3,23 +3,7 @@
   <h2 align="center">
     Animal Crossing: New Horizons
   </h2>
-  <p align="center">
-     This repo exists to help me <a href="https://github.com/skullface/acnh/projects/1">track my progress ✅</a>
-     and keep tabs on information 👇 I don’t want to lose.
-  </p>
-  <p align="center">
-    Let’s be friends! I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island.<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
-  </p>
-</p>
-
----
-
-<p align="center">
-  <strong>
-    Looking for my catalog or wishlist?
-  </strong><br>🏡 <a href="https://github.com/skullface/acnh/blob/trading/home.md">Furniture/Housewares</a> &nbsp; &nbsp; 👚 <a href="https://github.com/skullface/acnh/blob/trading/trading/closet.md">Clothing/Accessories</a>
-</p>
-
+  
 ---
 
 ## Resources
@@ -34,6 +18,7 @@
 * [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html)
 * [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room)
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/)
+* [**Ultimate Flower Breeding Guide 2.0**](https://www.reddit.com/r/ac_newhorizons/comments/g24byu/i_made_a_new_visual_flower_guide_from_the/?utm_medium=android_app&utm_source=share)
 
 ### Trade
 * [**Nookazon**](http://nookazon.com)
