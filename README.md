@@ -4,7 +4,6 @@
     Animal Crossing: New Horizons
   </h2>
   <h5 align="center">Kono Bono | Bebe Agua Island | Southern Hemisphere | EST</h5>
----
 
 ## Resources
 
