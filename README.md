@@ -3,9 +3,7 @@
   <h2 align="center">
     Animal Crossing: New Horizons
   </h2>
-  <h5 align="center">
-  ~Kono Bono from Bebe Agua Island~
- # Southern Hemisphere | EST</h5>
+  <h5 align="center">Kono Bono | Bebe Agua Island | Southern Hemisphere | EST</h5>
 ---
 
 ## Resources
