@@ -8,11 +8,11 @@
 
 ## Resources
 
-### Collection & Tracking
+### Collection & Database
 * [**Completionista**](https://completionista.com/)
 * [**Nook Plaza**](https://nookplaza.net/)
-* [**Turnip Prophet**](https://turnipprophet.io/)
-* [**Stalks**](https://stalks.io/)
+* [**VillagerDB**](https://villagerdb.com/)
+* [**Nookazon**](http://nookazon.com)
 
 ### Guides
 * [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html)
@@ -20,9 +20,11 @@
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/)
 * [**Ultimate Flower Breeding Guide 2.0**](https://www.reddit.com/r/ac_newhorizons/comments/g24byu/i_made_a_new_visual_flower_guide_from_the/?utm_medium=android_app&utm_source=share)
 
-### Trade
-* [**Nookazon**](http://nookazon.com)
+### Turnips
+* [**Turnip Prophet**](https://turnipprophet.io/)
+* [**Stalks**](https://stalks.io/)
 * [**Turnip Exchange**](https://turnip.exchange/)
+
 
 ## Timing
 
