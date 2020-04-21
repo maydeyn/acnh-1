@@ -8,8 +8,8 @@
 ## Resources
 
 ### Collection & Database
-* [**Completionista**](https://completionista.com/)
-* [**Nook Plaza**](https://nookplaza.net/)
+* [**Completionista**](https://completionista.com/) [`Extra Fossils`](https://completionista.com/share/fossils/226) [`Extra Recipes`](https://completionista.com/share/recipes/226)
+* [**Nook Plaza**](https://nookplaza.net/) [`Touch Trade Catalog`](https://nookplaza.net/lists/44)
 * [**VillagerDB**](https://villagerdb.com/)
 * [**Nookazon**](http://nookazon.com)
 
