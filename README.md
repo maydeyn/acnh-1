@@ -18,6 +18,7 @@
 * [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room)
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/)
 * [**Ultimate Flower Breeding Guide 2.0**](https://www.reddit.com/r/ac_newhorizons/comments/g24byu/i_made_a_new_visual_flower_guide_from_the/?utm_medium=android_app&utm_source=share)
+* [**Hybrid Guide: Complete Collection**](https://imgur.com/gallery/YOEENYN)
 
 ### Turnips
 * [**Turnip Prophet**](https://turnipprophet.io/)
