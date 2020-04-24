@@ -12,6 +12,7 @@
 * [**Nook Plaza**](https://nookplaza.net/) [`Touch Trade Catalog`](https://nookplaza.net/lists/44)
 * [**VillagerDB**](https://villagerdb.com/)
 * [**Nookazon**](http://nookazon.com)
+* [**ACNH: Custom Designs**](https://nooksisland.com/designs)
 
 ### Guides
 * [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html)
